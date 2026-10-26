@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "1.2",
-  "downloadUrl": "sha256:462bd8e10cc8c7d711757c229dc01094b1345704bcf01dc4c143242c84d2af7d",
+  "downloadUrl": "https://github.com/idoopeng/CountdownApp/releases/download/v1.2/-v1.1-debug.apk",
   "changelog": "1. 新增每日汇总提醒\n2. 新增应用内更新检查"
 }
